@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 #this is test vor new version
 LABEL maintainer="Ratko Dimovski" \
-      name="my_first_ms_server" \
+      name="Minecraft_server_test" \
       version="1.0"
 
 #set env variables
