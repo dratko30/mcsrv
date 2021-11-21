@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 #this is test vor new version
 LABEL maintainer="Ratko Dimovski" \
       name="my_first_ms_server" \
-      version="1.1"
+      version="1.0"
 
 #set env variables
 ENV DEBIAN_FRONTEND noninteractive

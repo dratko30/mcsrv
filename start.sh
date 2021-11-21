@@ -1,5 +1,5 @@
 #!/bin/bash
-#script for starting version1.1
+#script for starting version 1.0
 
 if [ ! -f server.jar ]
    then
